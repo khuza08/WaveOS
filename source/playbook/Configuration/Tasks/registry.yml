@@ -1,0 +1,4 @@
+title: Registry Tweaks
+actions:
+    # Example
+# - !registryValue: {path: 'Put\Your\Tweak\Path', value: 'Enable\Disable\Hidden', type: , data: '1\0'}

@@ -1,0 +1,5 @@
+title: Removing Unused APPX Packages
+actions:
+    # Example
+# - !appx: {name: '*appx*', type: }
+
