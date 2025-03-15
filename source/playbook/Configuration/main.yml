@@ -3,4 +3,4 @@ actions:
 - !writeStatus: {status: 'Applying registry tweaks'}
 - !task: {path: Tasks\registry.yml}
 - !writeStatus: {status: 'Removing Unused APPX Packages'}
-- !status: {path: Tasks\appx.yml}
+- !task: {path: Tasks\appx.yml}
