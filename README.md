@@ -13,6 +13,6 @@ Since I started this project this month, I apologize that the playbook using Ame
 
 ---
 
-<p><a href="#"><s></s>ISO Releases</a>s></a></p>
+<p><a href="#"><s></s>ISO Releases</s></a></p>
 <p><a href="#"><s>Playbook</s></a></p>
 
